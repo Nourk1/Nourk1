@@ -9,7 +9,7 @@ Hi, I’m Nour Khalifa, a Computer Science student with a passion for solving pr
 I’m proud to be a Fellow at Break Through Tech, where I collaborate with KPMG to develop ML models that help nonprofits thrive. I’m also actively involved in organizations like Rewriting the Code and Kode with Klossy. 🚀
 
 📂 Featured Projects
-1. fall-ai-studio-predictive-donations
+1. [fall-ai-studio-predictive-donations](https://github.com/KPMG-1c/KPMG-1C-project.git)
 🔮 Objective: Developed a predictive ML model to forecast donor retention based on sociodemographic data.
 📊 Highlights:
 
@@ -19,13 +19,15 @@ Achieved 96% accuracy with valuable insights for targeting future campaigns.
 📂 Repo Includes: Jupyter notebooks, datasets, and full documentation.
 
 
-2. svm-sentiment-analysis-customer-feedback
-🧠 Objective: Built an SVM model to classify customer feedback as positive, negative, or neutral.
-💬 Highlights:
+2. [eCornell AI/ML Projects](https://github.com/Nourk1/eCornellfolder.git) 📚
+Objective: Completed multiple projects in AI and Machine Learning during the Breakthrough Tech eCornell course last summer.
 
-Cleaned and preprocessed real-world Amazon review data using TF-IDF and NLP techniques.
-Successfully classified feedback to help businesses improve customer experiences.
-📂 Repo Includes: Example scripts, visualizations, and installation instructions.
+Highlights:
+Worked on hands-on projects covering key ML concepts like data preprocessing, model training, and evaluation. 🤖
+Gained experience with Python, scikit-learn, and other machine learning tools and techniques. 🐍
+Repo Includes: Code, documentation, and project files from the course. 📝
+
+
 
 3. bookstore-inventory-avl-tree
 📚 Objective: Implemented an AVL tree-based system for managing book orders and inventory in a bookstore.
